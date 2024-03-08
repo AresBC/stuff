@@ -1,0 +1,17 @@
+{
+    "name": "some/stuff",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AresBC",
+            "email": "62770044+AresBC@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    }
+}
